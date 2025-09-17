@@ -1,4 +1,4 @@
-# LearnHub - AI-Powered Learning Platform (React Version)
+# MargDarshan
 
 A modern, responsive learning platform built with React that provides AI-powered education and personalized learning paths.
 
@@ -8,8 +8,6 @@ A modern, responsive learning platform built with React that provides AI-powered
 - **Dark/Light Theme**: Toggle between dark and light modes with persistent preferences
 - **Interactive AI Chatbot**: Real-time chat interface with LearnBot assistant
 - **Course Roadmap**: Visual learning path with different skill levels
-- **Certification System**: Display available certificates and achievements
-- **Feedback Form**: Collect user feedback with star ratings
 - **Responsive Design**: Mobile-first approach with modern CSS
 - **Smooth Animations**: CSS animations and transitions for better UX
 
@@ -19,8 +17,6 @@ A modern, responsive learning platform built with React that provides AI-powered
 - `Hero`: Landing section with call-to-action
 - `Roadmap`: Course progression visualization
 - `Chatbot`: Interactive AI assistant
-- `Certification`: Certificate showcase
-- `Feedback`: User feedback collection
 - `Footer`: Site information and links
 
 ## Getting Started
@@ -113,3 +109,4 @@ src/
 ## License
 
 This project is licensed under the MIT License.
+
